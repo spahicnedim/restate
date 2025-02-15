@@ -73,6 +73,5 @@ In the output, you'll find options to open the app in a
 - iOS simulator
 - Expo Go, a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the app directory. This project uses file-based routing.
 
 
